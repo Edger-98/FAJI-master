@@ -1,1 +1,1 @@
-Events app to locate parties within close proximity.
+#Events app to locate parties within close proximity.
